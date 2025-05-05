@@ -1,0 +1,42 @@
+{
+  "originHash" : "366250d0af0d38462ed8bf6f71f4bf9b08fb4e397ea8f131e5b6d93af5d2c6f0",
+  "pins" : [
+    {
+      "identity" : "datadogproxy",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danibachar/DatadogProxy.git",
+      "state" : {
+        "revision" : "674f621565106f5642039970f65b6060d97b4bbe",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "dd-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DataDog/dd-sdk-ios.git",
+      "state" : {
+        "revision" : "e9d153d5e57839a737a6915dcd361b58b6b9c31a",
+        "version" : "2.17.0"
+      }
+    },
+    {
+      "identity" : "opentelemetry-swift-packages",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DataDog/opentelemetry-swift-packages.git",
+      "state" : {
+        "revision" : "adcfc3d7fc6ad411bb576cfa4512c2d3f8b2dbc7",
+        "version" : "1.6.0"
+      }
+    },
+    {
+      "identity" : "plcrashreporter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/microsoft/plcrashreporter.git",
+      "state" : {
+        "revision" : "8c61e5e38e9f737dd68512ed1ea5ab081244ad65",
+        "version" : "1.12.0"
+      }
+    }
+  ],
+  "version" : 3
+}
