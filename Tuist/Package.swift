@@ -16,6 +16,6 @@ let package = Package(
     name: "TuistCacheMismatch",
     dependencies: [
         .package(url: "https://github.com/danibachar/DatadogProxy.git", exact: "1.0.1"),
-        .package(url: "https://github.com/DataDog/dd-sdk-ios.git", exact: "2.17.0"),
+        .package(url: "https://github.com/DataDog/dd-sdk-ios.git", exact: "2.26.0"),
     ]
 )

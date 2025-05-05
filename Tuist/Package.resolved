@@ -1,5 +1,5 @@
 {
-  "originHash" : "366250d0af0d38462ed8bf6f71f4bf9b08fb4e397ea8f131e5b6d93af5d2c6f0",
+  "originHash" : "1da159e782ede126d7ec70cb758b2f3cc17e4317177c336ed23371f3c760c82b",
   "pins" : [
     {
       "identity" : "datadogproxy",
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/DataDog/dd-sdk-ios.git",
       "state" : {
-        "revision" : "e9d153d5e57839a737a6915dcd361b58b6b9c31a",
-        "version" : "2.17.0"
+        "revision" : "868b6007db32b764998fcf847ab00c7daeed8c8b",
+        "version" : "2.26.0"
       }
     },
     {
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/DataDog/opentelemetry-swift-packages.git",
       "state" : {
-        "revision" : "adcfc3d7fc6ad411bb576cfa4512c2d3f8b2dbc7",
-        "version" : "1.6.0"
+        "revision" : "4a7295600d4ebb9525a23c11586c5fdb74ae8b7e",
+        "version" : "1.13.1"
       }
     },
     {
